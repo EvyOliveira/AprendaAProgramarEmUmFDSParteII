@@ -1,0 +1,19 @@
+#partida{
+    width: 220px;
+
+}
+
+#personagem {
+    position: absolute;
+    width: 150px;
+    margin-top: 250px;
+    margin-right: 400px;
+    left: 70px;
+}
+
+#chegada{
+    position: absolute;
+    width: 220px;
+    margin-top: 420px;
+    right: 30px;
+}
