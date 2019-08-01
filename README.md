@@ -1,2 +1,2 @@
 # AprendaAProgramarEmUmFDSParteII
-Curso de curta duração sobre programação front-end pela plataforma Mastertech + Descomplica.
+Este reprositório contem um jogo utilizando HTML5, CSS3 e JvaScript. 
